@@ -1,1 +1,20 @@
 
+{
+  "online": [
+    {
+      "id": "vid_001",
+      "uri": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "title": "فيديو تجريبي 1"
+    },
+    {
+      "id": "vid_002",
+      "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "title": "فيديو تجريبي 2"
+    },
+    {
+      "id": "vid_003",
+      "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "title": "فيديو تجريبي 3"
+    }
+  ]
+}
